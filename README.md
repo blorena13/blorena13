@@ -1,4 +1,5 @@
-### Hi there 👋
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fire+Code&duration=3000&pause=1000&color=7F1297&center=true&multiline=true&width=435&lines=Hi%2C+my+name+is+Lorena+Barreto;and+I'm+a+student+of+web+development)](https://git.io/typing-svg)
 
 <!--
 **blorena13/blorena13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
